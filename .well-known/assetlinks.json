@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.leafy_rugelach_df9b99.twa",
+        "sha256_cert_fingerprints": ["B8:6C:E9:18:A4:01:32:94:5F:7A:97:53:15:45:60:53:2B:D6:A8:EA:6D:10:1C:15:83:0C:26:11:99:F2:D4:F3"]
+      }
+    }]
