@@ -1,8 +1,10 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "molly.co",
-        "sha256_cert_fingerprints": ["01:EE:FB:C3:7A:85:FA:3E:C9:CE:86:2F:61:90:41:8F:8C:E5:A6:9F:5D:04:BF:2F:2C:9B:D3:F2:3B:E9:16:78"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.netlify.leafy_rugelach_df9b99.twa",
+    "sha256_cert_fingerprints": [
+      "24:03:22:7E:F7:C6:1E:ED:93:25:62:EA:FD:0F:D1:25:E2:F0:B6:A8"
+    ]
+  }
+}]
